@@ -1,4 +1,4 @@
-package com.mx.spring.boot.template;
+package com.mx.jwt;
 
 import junit.framework.TestCase;
 import lombok.extern.slf4j.Slf4j;
